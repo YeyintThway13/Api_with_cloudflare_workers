@@ -1,7 +1,5 @@
 const {Router} = require('cloudworker-router');
 
-console.log(Router)
-
 const router = new Router();
 
 
