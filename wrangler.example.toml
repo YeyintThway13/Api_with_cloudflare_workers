@@ -1,0 +1,9 @@
+name = "tasks-api"
+type = "webpack"
+account_id = "bf5dcc70c301cd25ce0913692b833060"
+workers_dev = true
+main = "index.js"
+compatibility_date = "2022-08-29"
+node_compat = true
+
+

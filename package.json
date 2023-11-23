@@ -1,0 +1,17 @@
+{
+  "name": "cloudflareworkers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudworker-router": "^4.1.5",
+    "cors": "^2.8.5",
+    "mongoose": "^8.0.1"
+  }
+}
